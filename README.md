@@ -2,10 +2,20 @@
 
 Ticket yönetimi fikri için ayrılmış başlangıç deposu.
 
-## Öne Çıkanlar
+## Bu Repo Ne İçin Var?
+Ticket yönetimi fikrine ayrılmış sade bir başlangıç alanı oluşturmak için açıldı.
+
+Bu README'nin amacı; repoya ilk kez gelen birinin projenin neden açıldığını, içinde ne bulunduğunu ve nereden başlaması gerektiğini hızlıca anlamasını sağlamaktır.
+
+## İçerik ve Kapsam
+Bu repoda öne çıkan içerikler şunlardır:
 - README ile proje amacı netleştirildi
 - İleride backend, frontend veya dokümantasyon eklemeye uygun boş başlangıç
 - Görev/talep takibi senaryolarına uygun isimlendirme
+- Repo amacını ve sonraki geliştirme adımlarını açıklayan başlangıç dokümantasyonu
+
+## Kimler İçin Faydalı?
+Proje fikrini daha sonra geliştirmek veya ilk issue/task listesini çıkarmak isteyenler için başlangıç noktasıdır.
 
 ## Mevcut Durum
 Bu depo şu anda yalnızca proje fikrini ve ileride eklenecek çalışmaları barındırmak için hazırlanmış boş bir başlangıç alanıdır.
